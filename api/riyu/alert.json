@@ -1,0 +1,36 @@
+ {
+ "title": "aaa",
+ "msg": "bbb",
+ "count": 1144,
+ "banner":[
+
+ 			{ 
+ 				"name": "取消",
+ 				"url":"http://tv.567it.com/videoitvz.php?sv=m3u8_16_live&tm=1539515822&key=4282208931",
+ 				"type":"video",
+ 				"img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539511160140&di=373b557e5128a1ff5d6262eb055337f1&imgtype=0&src=http%3A%2F%2Fx.itunes123.com%2Fuploadfiles%2F66245d7ebcbd68ffca7a231c456e54b7.jpg"
+			},
+			{ 
+ 				"name": "4444",
+ 				"url":"http://img1.imgtn.bdimg.com/it/u=535803854,3213881849&fm=26&gp=0.jpg",
+ 				"img": "http://img1.imgtn.bdimg.com/it/u=535803854,3213881849&fm=26&gp=0.jpg"
+			}
+
+ 		],
+ "items": [
+ 			{ 
+ 				"title": "取消",
+ 				"url": "url"
+			},
+ 			{ 
+ 				"title": "去看看",
+ 				"url": "https://www.jianshu.com/p/2cd9ddf4b0a8"
+			},
+			 			{ 
+ 				"title": "去看看",
+ 				"url": "https://www.jianshu.com/p/2cd9ddf4b0a8"
+			}
+
+
+ 		]
+ }

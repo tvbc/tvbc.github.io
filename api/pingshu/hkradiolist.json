@@ -1,0 +1,156 @@
+[
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "香港电台1",
+                    "streams" : [
+                                {
+                                    "url" : "http://202.177.192.120/radio1"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "香港电台2",
+                    "streams" : [
+                                {
+                                    "url" : "http://202.177.192.120/radio2"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "香港电台3",
+                    "streams" : [
+                                {
+                                    "url" : "http://202.177.192.120/radio3"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "香港电台4",
+                    "streams" : [
+                                {
+                                    "url" : "http://202.177.192.120/radio4"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "香港电台5",
+                    "streams" : [
+                                {
+                                    "url" : "http://202.177.192.120/radio5"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "香港普通话台",
+                    "streams" : [
+                                {
+                                    "url" : "http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "香港商业电台",
+                    "streams" : [
+                                {
+                                    "url" : "http://d3ca3xccq5z5hu.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunklist.m3u8"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "香港叱咤电台",
+                    "streams" : [
+                                {
+                                    "url" : "http://d3ca3xccq5z5hu.cloudfront.net/radio-HTTP/cr2-hd.3gp/chunklist.m3u8"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "香港网络电台",
+                    "streams" : [
+                                {
+                                    "url" : "http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-b.m3u8?sd:10&rebase:on"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "新城娱乐台",
+                    "streams" : [
+                                {
+                                    "url" : "http://d3ca3xccq5z5hu.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunklist.m3u8"
+                                }
+                            ]
+                },
+
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "怀集音乐台",
+                    "streams" : [
+                                {
+                                    "url" : "http://cnlive.cnr.cn/hls/hjyyzs.m3u8"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "1人1首成名曲",
+                    "streams" : [
+                                {
+                                    "url" : "http://lhttp.qingting.fm/live/5022314/64k.mp3"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "经典粤语音乐",
+                    "streams" : [
+                                {
+
+                                    "url" : "http://lhttp.qingting.fm/live/15317923/64k.mp3"
+                                }
+                            ]
+                },
+
+
+
+                            {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "经典华语音乐",
+                    "streams" : [
+                                {
+                                    "url" : "http://lhttp.qingting.fm/live/5022308/64k.mp3"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "清晨音乐台",
+                    "streams" : [
+                                {
+                                    "url" : "http://lhttp.qingting.fm/live/4915/64k.mp3"
+                                }
+                            ]
+                },
+                {
+                    "img" : "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/53/b8/7253b8e4-a042-11ab-84ef-658a164edb4a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/180x180bb.png",
+                    "name" : "青苹果音乐",
+                    "streams" : [
+                                {
+                                    "url" : "http://lhttp.qingting.fm/live/4576/64k.mp3"
+                                }
+                            ]
+                }
+
+
+
+
+
+    ]
