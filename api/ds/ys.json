@@ -1,0 +1,87 @@
+[
+  {
+    "title" : "CCTV - 1",
+    "url" : "http:\/\/223.110.245.165\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221226316\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 2",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/cctv-5\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 3",
+    "url" : "http:\/\/m-tvlmedia.public.bcs.ysten.com\/ysten-business\/live\/cctv-3\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 4",
+    "url" : "http:\/\/111.40.205.87\/PLTV\/88888888\/224\/3221225725\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 5",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/cctv-5\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 6",
+    "url" : "http:\/\/117.169.79.106:8080\/PLTV\/88888888\/224\/3221225634\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 7",
+    "url" : "http:\/\/111.40.205.87\/PLTV\/88888888\/224\/3221225733\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 8",
+    "url" : "http:\/\/183.207.248.71\/cntv\/live1\/8\/cctv-8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 9",
+    "url" : "http:\/\/223.110.245.161\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221225868\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 10",
+    "url" : "http:\/\/223.110.245.170\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221225550\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 11",
+    "url" : "http:\/\/111.40.205.87\/PLTV\/88888888\/224\/3221225724\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 12",
+    "url" : "http:\/\/223.110.245.163\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221225556\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 13",
+    "url" : "http:\/\/ivi.bupt.edu.cn\/hls\/cctv13.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 14",
+    "url" : "http:\/\/223.110.245.155\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221225813\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV - 15",
+    "url" : "http:\/\/223.110.245.155\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221225568\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV5",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/cctv-5\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  },
+  {
+    "title" : "CCTV5 +",
+    "url" : "http:\/\/223.110.241.130:6610\/gitv\/live1\/G_CCTV-5PLUS-HQ\/G_CCTV-5PLUS-HQ\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cctv.png"
+  }
+]

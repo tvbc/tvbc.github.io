@@ -1,0 +1,182 @@
+[
+  {
+    "title" : "湖南卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/hunanstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/hnws.jpg"
+  },
+  {
+    "title" : "江苏卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/jiangsustv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/jsws.jpg"
+  },
+  {
+    "title" : "浙江卫视",
+    "url" : "http:\/\/223.110.243.173\/PLTV\/3\/224\/3221227215\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/zjws.jpg"
+  },
+  {
+    "title" : "东方卫视",
+    "url" : "http:\/\/223.110.243.138\/PLTV\/3\/224\/3221227208\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/dfws.jpg"
+  },
+  {
+    "title" : "广东卫视",
+    "url" : "http:\/\/223.110.243.136\/PLTV\/3\/224\/3221227249\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/gdws.jpg"
+  },
+  {
+    "title" : "广西卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/guangxistv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/gxws.jpg"
+  },
+  {
+    "title" : "江西卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/jiangxistv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/jxws.jpg"
+  },
+  {
+    "title" : "云南卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/yunnanstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/ynws.jpg"
+  },
+  {
+    "title" : "四川卫视",
+    "url" : "http:\/\/223.110.245.145\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221225814\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/scws.jpg"
+  },
+  {
+    "title" : "湖北卫视",
+    "url" : "http:\/\/223.110.243.171\/PLTV\/3\/224\/3221227211\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/hbtv.jpg"
+  },
+  {
+    "title" : "安徽卫视",
+    "url" : "http:\/\/223.110.245.143\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221225800\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/ahws.jpg"
+  },
+  {
+    "title" : "贵州卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/guizhoustv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/gzws.jpg"
+  },
+  {
+    "title" : "青海卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/qinghaistv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/qhws.jpg"
+  },
+  {
+    "title" : "山东卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/shandongstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/sdws.jpg"
+  },
+  {
+    "title" : "山西卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/shanxistv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/sxws.jpg"
+  },
+  {
+    "title" : "河南卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/henanstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/hntv.jpg"
+  },
+  {
+    "title" : "河北卫视",
+    "url" : "http:\/\/weblive.hebtv.com\/live\/hbws_bq\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/hbws.jpg"
+  },
+  {
+    "title" : "内蒙古卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/neimenggustv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/nmg.jpg"
+  },
+  {
+    "title" : "东南卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/dongnanstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/dnws.jpg"
+  },
+  {
+    "title" : "西藏卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/xizangstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/xzws.jpg"
+  },
+  {
+    "title" : "陕西卫视",
+    "url" : "http:\/\/223.110.245.163\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221226079\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/sxtv.jpg"
+  },
+  {
+    "title" : "新疆卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/xinjiangstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/xjws.jpg"
+  },
+  {
+    "title" : "甘肃卫视",
+    "url" : "http:\/\/223.110.245.141\/ott.js.chinamobile.com\/PLTV\/3\/224\/3221225590\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/gsws.jpg"
+  },
+  {
+    "title" : "宁夏卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/ningxiastv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/nxws.jpg"
+  },
+  {
+    "title" : "辽宁卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/liaoningstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/lnws.jpg"
+  },
+  {
+    "title" : "吉林卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/jilinstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/jlws.jpg"
+  },
+  {
+    "title" : "黑龙江卫视",
+    "url" : "http:\/\/223.110.243.169\/PLTV\/3\/224\/3221227252\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/hljws.jpg"
+  },
+  {
+    "title" : "北京卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/beijingstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/bjws.jpg"
+  },
+  {
+    "title" : "天津卫视",
+    "url" : "http:\/\/223.110.243.170\/PLTV\/3\/224\/3221227212\/index.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/tjws.jpg"
+  },
+  {
+    "title" : "重庆卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/chongqingstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/cqws.jpg"
+  },
+  {
+    "title" : "深圳卫视",
+    "url" : "http:\/\/223.110.242.130:6610\/cntv\/live1\/shenzhenstv\/1.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/szws.jpg"
+  },
+  {
+    "title" : "星空卫视",
+    "url" : "http:\/\/222.207.48.30\/hls\/startv.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/xkws.jpg"
+  },
+  {
+    "title" : "旅游卫视",
+    "url" : "http:\/\/stream1.hnntv.cn\/lyws\/sd\/live.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/lyws.jpg"
+  },
+  {
+    "title" : "康巴卫视",
+    "url" : "http:\/\/scgctvshow.sctv.com\/sdlive\/kangba\/3.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/kbws.jpg"
+  },
+  {
+    "title" : "兵团卫视",
+    "url" : "http:\/\/v.btzx.com.cn:1935\/live\/weishi.stream\/playlist.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/btws.jpg"
+  },
+  {
+    "title" : "香港卫视",
+    "url" : "http:\/\/zhibo.hkstv.tv\/livestream\/zb2yhapo\/playlist.m3u8",
+    "img" : "http:\/\/tb.91kds.cn\/tb\/xgws.jpg"
+  }
+]
